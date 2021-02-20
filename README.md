@@ -15,5 +15,5 @@ Aqui estão algumas ideias para você começar:
 -->
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo: Ethical Hacking 
-- 📫 Como me encontrar: Telegram:[k4k4rot0](https://t.me/k4k4rot0) ou E-mail:[Protonmail](k4k4rot0@protonmail.com) 
+- 📫 Como me encontrar: Telegram:[k4k4rot0](https://t.me/k4k4rot0) ou E-mail:[k4k4rot0@protonmail.com](k4k4rot0@protonmail.com) 
 
