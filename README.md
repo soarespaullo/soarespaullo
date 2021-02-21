@@ -13,6 +13,6 @@ Aqui estão algumas ideias para você começar:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Atualmente estou trabalhando em: Técnico em Informática.
-- 🌱 Atualmente estou aprendendo: Ethical Hacking.
+- 💻 Atualmente estou trabalhando em: Técnico em Informática.
+- 📚 Atualmente estou aprendendo: Ethical Hacking.
 
