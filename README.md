@@ -16,3 +16,5 @@ Aqui estão algumas ideias para você começar:
 - 💻 Atualmente estou trabalhando em: Técnico em Informática.
 - 📚 Atualmente estou aprendendo: Ethical Hacking.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4k4rot0)](https://github.com/anuraghazra/github-readme-stats)
