@@ -17,4 +17,5 @@ Aqui estão algumas ideias para você começar:
 - 📚 Atualmente estou aprendendo: Ethical Hacking.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4k4rot0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4k4rot0)](https://github.com/k4k4rot0/k4k4rot0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4k4rot0&layout=compact)](https://github.com/k4k4rot0/k4k4rot0)
