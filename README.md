@@ -1,9 +1,7 @@
-### Olá, Seja Bem-vindo ao meu perfil 👋
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4k4rot0&line_height=20)](https://github.com/k4k4rot0/k4k4rot0)
 [![Top Langs paulo](https://github-readme-stats.vercel.app/api/top-langs/?username=k4k4rot0&layout=compact)](https://github.com/k4k4rot0/k4k4rot0)
+
+[![Telegram](https://github.com/k4k4rot0/k4k4rot0/blob/main/github/telegram.png)](http://t.me/k4k4rot0)
 
 
 
