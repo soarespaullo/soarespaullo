@@ -18,7 +18,6 @@
  <a href="http://t.me/k4k4rot0" target="_blank"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:k4k4rot0@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=Protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/k4k4rot0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/k4k4rot0/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-%7d7769?style=for-the-badge&logo=wordpress&logoColor=white"></a>
  
   ![Snake animation](https://github.com/k4k4rot0/k4k4rot0/blob/output/github-contribution-grid-snake.svg)
                      
