@@ -1,4 +1,4 @@
-## Olá! Bem-vindo ao meu Perfil... Eu sou Paulo Soares
+## Olá! Eu sou Paulo Soares
 
 - 👨‍💻 Hoje trabalho como Técnico em Informática.
 - 📚 Estudando CyberSecurity, Bug Bounty, Pentest, Ethical Hacking, Red Team, SysAdmin, Linux e Windows.
