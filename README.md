@@ -14,7 +14,7 @@
    ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCXPV6lbDxQGoNPUOwB26H2w?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/psinformatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="http://t.me/k4k4rot0" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:k4k4rot0@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=Protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/k4k4rot0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
