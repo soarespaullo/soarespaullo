@@ -1,15 +1,15 @@
 ## Olá! Eu sou Paulo Soares
 
-- 👨‍💻 Hoje trabalho como Técnico em Informática.
+- 👨‍💻 Hoje, trabalho como Técnico em Informática.
 - 📚 Estudando CyberSecurity, Bug Bounty, Pentest, Ethical Hacking, Red Team, SysAdmin, Linux e Windows.
 
 
 <div align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md -->
   <a href="https://github.com/k4k4rot0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4k4rot0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4k4rot0&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4k4rot0&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4k4rot0&layout=compact&langs_count=5&theme=onedark"/>
 </div>
-  
   
    ##
  
