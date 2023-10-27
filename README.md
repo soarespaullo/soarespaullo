@@ -8,7 +8,7 @@
 <div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md -->
   <a href="https://github.com/paul0-soares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4k4rot0&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paul0-soares&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0-soares&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
