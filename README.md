@@ -20,8 +20,8 @@
   <a href = "mailto:k4k4rot0@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=Protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/soarespaullo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://mastodon.social/@K4k4rot0/" target="_blank"><img src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
-  <a href="https://github.com/k4k4rot0/dotfiles" target="_blank"><img src="https://img.shields.io/badge/-Arc%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white"></a>
+  <a href="https://github.com/soarespaullo/dotfiles" target="_blank"><img src="https://img.shields.io/badge/-Arc%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/k4k4rot0/k4k4rot0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/soarespaullo/soarespaullo/blob/output/github-contribution-grid-snake.svg)
                      
 </div>
