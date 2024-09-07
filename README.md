@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/soarespaullo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://mastodon.social/@soarespaullo/" target="_blank"><img src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
   <a href="https://github.com/soarespaullo/dotfiles" target="_blank"><img src="https://img.shields.io/badge/-Arc%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white"></a>
- 
+
+ ![snake gif](https://github.com/soarespaullo/soarespaullo/blob/output/github-contribution-grid-snake.gif)
                      
 </div>
