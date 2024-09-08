@@ -22,6 +22,10 @@
    <a href="https://mastodon.social/@soarespaullo/" target="_blank"><img src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
   <a href="https://github.com/soarespaullo/dotfiles" target="_blank"><img src="https://img.shields.io/badge/-Arc%20Linux-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white"></a>
 
- ![snake gif](https://github.com/soarespaullo/soarespaullo/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soarespaullo/soarespaullo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soarespaullo/soarespaullo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soarespaullo/soarespaullo/output/github-contribution-grid-snake.svg">
+</picture>
                      
 </div>
