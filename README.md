@@ -14,7 +14,7 @@
   
    ##
  
-<div> 
+<div align="center" > 
   <a href="https://www.youtube.com/psinformatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  <a href="http://t.me/k4k4rot0" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a> 
   <a href = "mailto:soarespaullo@proton.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=Protonmail&logoColor=white"></a>
