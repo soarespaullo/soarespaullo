@@ -1,8 +1,12 @@
-## Olá! Eu sou Paulo Soares
+# Olá! Eu sou o Paulo Soares 🛡️
 
-- 👨‍💻 Hoje, trabalho como Técnico em Informática.
-- 📚 Estudando CyberSecurity, Bug Bounty, Pentest, Ethical Hacking, Red Team, SysAdmin, Linux e Windows.
+**SysAdmin | Infraestrutura | Pós-graduando em Defesa Cibernética**
 
+
+- 👨‍💻 **Atuação:** Analista de Infraestrutura e Administração de Sistemas.
+- 🎓 **Formação:** Pós-graduando em Defesa Cibernética e Perícia Forense Digital.
+- 🐧 **OS:** Entusiasta de **Arch Linux** (meus dotfiles estão logo abaixo!).
+- 🎯 **Foco:** Hardening de sistemas, Red Team, Pentest e Ethical Hacking.
 
 
 <div align="center">
@@ -28,3 +32,11 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soarespaullo/soarespaullo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+
+
+
+
+
+
