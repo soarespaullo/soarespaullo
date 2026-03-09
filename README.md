@@ -1,6 +1,6 @@
 # Olá! Eu sou o Paulo Soares 🛡️
 
-**SysAdmin | Infraestrutura | Pós-graduando em Defesa Cibernética**
+**SysAdmin | Infraestrutura | Pós-graduação em Defesa Cibernética e Perícia Forence**
 
 
 - 👨‍💻 **Atuação:** Analista de Infraestrutura e Administração de Sistemas.
