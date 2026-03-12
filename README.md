@@ -1,10 +1,10 @@
 # Olá! Eu sou o Paulo Soares 🛡️
 
-**SysAdmin | Infraestrutura | Pós-graduação em Defesa Cibernética e Perícia Forence**
+**SysAdmin | Infraestrutura | Pós-graduado em Defesa Cibernética e Perícia Forence**
 
 
 - 👨‍💻 **Atuação:** Analista de Infraestrutura e Administração de Sistemas.
-- 🎓 **Formação:** Pós-graduação em Defesa Cibernética e Perícia Forense Digital.
+- 🎓 **Formação:** Pós-graduado em Defesa Cibernética e Perícia Forense Digital.
 - 🐧 **OS:** Entusiasta de **Arch Linux** (meus dotfiles estão logo abaixo!).
 - 🎯 **Foco:** Hardening de sistemas, Red Team, Pentest e Ethical Hacking.
 
